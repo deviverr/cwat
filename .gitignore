@@ -1,0 +1,16 @@
+# Build artifacts
+cwat
+cwat.exe
+*.test
+*.out
+
+# Common local output folder
+bin/
+release/
+dist/
+
+# credentials
+.env
+.env.*
+config.json
+*.key

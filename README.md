@@ -1,5 +1,13 @@
 # 🐾 CWAT (Code With AI Terminal)
 
+```text
+   ▄     ▄
+  █ ▀▄▄▄▀ █
+ █ ▀▄   ▄▀ █
+█  ▀  ▄  ▀  █
+ ▀   ▀ ▀   ▀   
+```
+
 **Ai console client written in Go.**
 
 CWAT is a clean-room, multi-provider, agentic CLI tool tailored for developers. Built entirely in Go, it delivers a lightning-fast, highly polished terminal experience with built-in tools that allow the AI to safely interact with your local environment.
